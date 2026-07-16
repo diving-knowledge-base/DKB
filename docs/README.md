@@ -11,6 +11,16 @@ Diving Knowledge Base（DKB）の知識ベースです。
 - Nitrogen Narcosis
 - Oxygen Toxicity
 
+### 🧠 Human Factors
+
+- Situational Awareness
+- Decision Making
+- Communication
+- Teamwork
+- Fatigue
+- Stress
+- Complacency
+
 ### 🛟 Dive Safety
 - Buddy System
 - Dive Planning
@@ -29,6 +39,8 @@ Diving Knowledge Base（DKB）の知識ベースです。
 - Regulator
 - SMB
 - Dive Computer
+
+### 📜 Diving History
 
 ### 📚 Case Study
 実際の事故・ヒヤリハットから学ぶ。
